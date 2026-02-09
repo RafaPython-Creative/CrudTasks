@@ -21,15 +21,6 @@ O **CrudTasks** entrega:
 
 ---
 
-## Preview (demonstração rápida)
-
-> Sugestão de GIF (pra colocar em `assets/preview.gif`):
-- criando task (POST)
-- listando (GET)
-- atualizando (PUT/PATCH)
-- deletando (DELETE)
-- importando CSV (node import-csv.js)
-
 Como rodar o projeto
 1) Instalar dependências
 npm install
