@@ -1,0 +1,52 @@
+{
+  "tasks": [
+    {
+      "id": "b9d60c79-00cf-4a2d-acbc-db45c5f7eff4",
+      "title": "Estudar Node",
+      "description": "Fazer o desafio de CRUD",
+      "completed_at": "2026-02-09T18:19:22",
+      "created_at": "2026-02-09T18:19:00",
+      "updated_at": "2026-02-09T18:19:22"
+    },
+    {
+      "id": "b098436a-f9cb-4d73-81b2-85f7402ddd81",
+      "title": "Estudar Node",
+      "description": "Fazer o desafio de CRUD",
+      "completed_at": null,
+      "created_at": "2026-02-09T18:23:41",
+      "updated_at": "2026-02-09T18:23:41"
+    },
+    {
+      "id": "9a95a782-a36b-4851-ac1f-0c95671e5e36",
+      "title": "Task 01",
+      "description": "Descrição da Task 01",
+      "completed_at": null,
+      "created_at": "2026-02-09T18:30:13",
+      "updated_at": "2026-02-09T18:30:13"
+    },
+    {
+      "id": "09cd95d2-e5b5-46cd-8c5f-fb7a0ff29656",
+      "title": "Task 02",
+      "description": "Descrição da Task 02",
+      "completed_at": null,
+      "created_at": "2026-02-09T18:30:13",
+      "updated_at": "2026-02-09T18:30:13"
+    },
+    {
+      "id": "a7e4e35e-e052-4b75-a01d-c7b9562b4205",
+      "title": "Task 03",
+      "description": "Descrição da Task 03",
+      "completed_at": null,
+      "created_at": "2026-02-09T18:30:13",
+      "updated_at": "2026-02-09T18:30:13"
+    },
+    {
+      "id": "08a0b0ef-a1de-449f-b17e-7dae940ebd73",
+      "title": "Estudar Node",
+      "description": "Fazer o desafio de CRUD",
+      "completed_at": null,
+      "created_at": "2026-02-09T18:31:23",
+      "updated_at": "2026-02-09T18:31:23"
+    }
+  ]
+}
