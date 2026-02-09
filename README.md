@@ -102,11 +102,10 @@ Roadmap (próximos upgrades naturais)
  Paginação
  Persistência em SQLite/Postgres (mantendo a mesma API)
  Testes (supertest) + CI
- <img width="1920" height="1032" alt="Captura de tela 2026-02-09 183702" src="https://github.com/user-attachments/assets/bd717183-deca-4196-9895-3829e13cdca1" />
-
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/bd717183-deca-4196-9895-3829e13cdca1" width="800" />
+ </p>
 ```md
 
 
-<p align="center">
-  <img src="assets/preview.gif" width="800" />
-</p>
+
