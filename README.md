@@ -105,7 +105,7 @@ Roadmap (próximos upgrades naturais)
  <p align="center">
   <img src="https://github.com/user-attachments/assets/bd717183-deca-4196-9895-3829e13cdca1" width="800" />
  </p>
-```md
+
 
 
 
